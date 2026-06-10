@@ -35,7 +35,7 @@ Conscientizar sobre a importância da economia de água no campo e mostrar como 
 
 ## Como Acessar
 
-https://SEU-USUARIO.github.io/agrinho2026/
+https://amandacasprek.github.io/agrinho2026/
 
 ## Autor
 
