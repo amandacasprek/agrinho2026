@@ -39,11 +39,11 @@ https://SEU-USUARIO.github.io/agrinho2026/
 
 ## Autor
 
-Nome do aluno: SEU NOME
+Nome do aluno: AMANDA CHRISTINE CASPREK
 
-Escola: SUA ESCOLA
+Escola: COLÉGIO ESTADUAL DOM PEDRO II
 
-Professor orientador: NOME DO PROFESSOR
+Professor orientador: LUIZ ALESSANDRO
 
 ## Observação
 
